@@ -9,7 +9,7 @@ body {
     background-size: 70%;
     background-position: center;
     background-repeat: no-repeat;
-    height: vh; /* Needed for background to fill viewport */
+    height: 100vh; /* Needed for background to fill viewport */
     color: #070707; /* Default text color for better contrast */
 }
 

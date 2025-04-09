@@ -6,10 +6,10 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('GSGlogo.png');
-    background-size: 70%;
+    background-size: 90%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh; /* Needed for background to fill viewport */
+    height: 50vh; /* Needed for background to fill viewport */
     color: #070707; /* Default text color for better contrast */
 }
 

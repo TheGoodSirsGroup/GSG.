@@ -5,7 +5,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('../media/GSGlogo.png'); /* Correct Path */
+    background-image: url('media/GSGlogo.png'); /* Correct Path */
     background-size: 70%;
     background-position: center;
     background-repeat: no-repeat;

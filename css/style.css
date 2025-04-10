@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('GSGlogo.png');
-    background-size: 90%;
+    background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
     height: ; /* Needed for background to fill viewport */
